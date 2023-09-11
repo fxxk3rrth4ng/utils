@@ -17,3 +17,4 @@
 * Pretendard Variable / Pretendard JP Variable
 * MICEGothic Bold
 * Sarasa Mono K
+* Nanum Myeongjo
