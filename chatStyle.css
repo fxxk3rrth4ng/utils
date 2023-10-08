@@ -2,6 +2,7 @@ body {
     background-color: rgba(0, 0, 0, 0); 
     margin: 0px auto; 
     overflow: hidden;
+    word-break: keep-all;
 }
 
 img.partner-icon, span.name {
