@@ -16,3 +16,9 @@
 	src: url("./Fonts/sarasa-mono-k-regular.ttf");
 	font-style: normal;
 }
+
+@font-face {
+	font-family: 'JetBrains Mono Nerd';
+	src: url('./Fonts/JetBrainsMonoNerdFont-Regular.ttf');
+	font-style: normal;
+}
